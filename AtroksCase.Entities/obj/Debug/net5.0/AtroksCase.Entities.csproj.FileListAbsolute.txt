@@ -1,0 +1,15 @@
+C:\Users\Ahmet\source\repos\AtroksCase\AtroksCase.Entities\bin\Debug\net5.0\AtroksCase.Entities.deps.json
+C:\Users\Ahmet\source\repos\AtroksCase\AtroksCase.Entities\bin\Debug\net5.0\AtroksCase.Entities.dll
+C:\Users\Ahmet\source\repos\AtroksCase\AtroksCase.Entities\bin\Debug\net5.0\ref\AtroksCase.Entities.dll
+C:\Users\Ahmet\source\repos\AtroksCase\AtroksCase.Entities\bin\Debug\net5.0\AtroksCase.Entities.pdb
+C:\Users\Ahmet\source\repos\AtroksCase\AtroksCase.Entities\obj\Debug\net5.0\AtroksCase.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\source\repos\AtroksCase\AtroksCase.Entities\obj\Debug\net5.0\AtroksCase.Entities.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\AtroksCase\AtroksCase.Entities\obj\Debug\net5.0\AtroksCase.Entities.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\AtroksCase\AtroksCase.Entities\obj\Debug\net5.0\AtroksCase.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\AtroksCase\AtroksCase.Entities\obj\Debug\net5.0\AtroksCase.Entities.dll
+C:\Users\Ahmet\source\repos\AtroksCase\AtroksCase.Entities\obj\Debug\net5.0\ref\AtroksCase.Entities.dll
+C:\Users\Ahmet\source\repos\AtroksCase\AtroksCase.Entities\obj\Debug\net5.0\AtroksCase.Entities.pdb
+C:\Users\Ahmet\source\repos\AtroksCase\AtroksCase.Entities\bin\Debug\net5.0\Core.dll
+C:\Users\Ahmet\source\repos\AtroksCase\AtroksCase.Entities\bin\Debug\net5.0\Core.pdb
+C:\Users\Ahmet\source\repos\AtroksCase\AtroksCase.Entities\obj\Debug\net5.0\AtroksCase.Entities.csproj.AssemblyReference.cache
+C:\Users\Ahmet\source\repos\AtroksCase\AtroksCase.Entities\obj\Debug\net5.0\AtroksCase.Entities.csproj.CopyComplete

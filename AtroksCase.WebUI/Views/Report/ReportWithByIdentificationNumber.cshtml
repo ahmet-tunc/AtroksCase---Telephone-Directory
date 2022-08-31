@@ -1,0 +1,67 @@
+﻿@model IEnumerable<AtroksCase.WebUI.Models.DistrictModel>
+
+@{
+    ViewData["Title"] = "Rehber Uygulaması - Rapor";
+}
+
+<h4>Rehber Uygulaması - Rapor</h4>
+<form asp-controller="Report" asp-action="ReportWithByIdentificationNumber" method="post">
+    <div class="form-group">
+        <label>TC Kimlik No</label>
+        <input name="IdentificationNumber" type="text" />
+        <input name="Search" type="submit" value="Ara" maxlength="11" />
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdentificationNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LocationLatitude)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LocationLongitude)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @*@if (false)
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FirstName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LastName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IdentificationNumber)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LocationLatitude)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LocationLongitude)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                </tr>
+            }
+        }*@
+    </tbody>
+</table>
